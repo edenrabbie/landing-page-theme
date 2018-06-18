@@ -167,3 +167,6 @@ p.copyright {
     display: none;
     margin: 15px 0 0;
 }
+.fa-fw{
+    width: unset;
+}
