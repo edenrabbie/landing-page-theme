@@ -25,11 +25,15 @@ permalink: pretty
 
 social:
   - title: Email
+    icon: far fa-envelope
     url: mailto:eden@edenrabbie.com
   - title: LinkedIn
+    icon: fab fa-linkedin
     url: https://linkedin.com/in/edenrabbie
   - title: twitter
+    icon: fab fa-twitter
     url: https://twitter.com/edenrabbie
   - title: Medium
+    icon: fab fa-medium
     url: https://medium.com/@edenrabbie
 
