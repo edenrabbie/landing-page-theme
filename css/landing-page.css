@@ -66,10 +66,15 @@ h6 {
 
     .intro-message > h1 {
         font-size: 3em;
+        margin-top: 20px;
+        margin-bottom: 10px;
     }
 
     ul.intro-social-buttons > li {
-        display: block;
+        adisplay: block;
+        color: #333;
+
+background-color: rgba(255, 255, 255, .9);
         margin-bottom: 20px;
         padding: 0;
     }
