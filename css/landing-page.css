@@ -60,18 +60,22 @@ h6 {
 }
 
 @media(max-width:767px) {
+    .intro-header {
+        padding-top: 0;
+    }
     .intro-message {
         padding-bottom: 15%;
     }
 
     .intro-message > h1 {
         font-size: 3em;
-        margin-top: 50%;
+        margin-top: 100%;
         margin-bottom: 10px;
     }
 
     ul.intro-social-buttons > li {
-        display: block;
+        adisplay: block;
+        width: 40%;
         margin-bottom: 20px;
         padding: 0;
     }
@@ -79,7 +83,14 @@ h6 {
     ul.intro-social-buttons > li:last-child {
         margin-bottom: 0;
     }
+.btn-default {
 
+    color: #fff;
+    background-color: rgba(0, 0, 0, .3);
+    border-color: #999;
+
+}
+    .btn {border: 0;}
     .intro-divider {
       /*  width: 100%;
 */    }
