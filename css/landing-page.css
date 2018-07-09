@@ -80,14 +80,14 @@ h3 {
 
     .intro-message > h1 {
         font-size: 3em;
-        margin-top: 100%;
+        amargin-top: 100%;
         margin-bottom: 10px;
     }
 
     ul.intro-social-buttons > li {
         adisplay: block;
         awidth: 40%;
-        amargin-bottom: 20px;
+        margin-bottom: 20px;
         padding: 0;
     }
 
